@@ -10,3 +10,8 @@ Machine Learning Projects Practice Repository
 - Used Supervised Learning model - Support Vector Machine
 - Goal is to predict whether a patient has diabetes or not (only for females)
 - dataset : https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
+
+## 03. House Price Prediction
+- Used Supervised Learning model - XGBoost Regressor
+- Goal is to predict house prices in Boston, MA, USA using existing data
+- dataset : http://lib.stat.cmu.edu/datasets/boston
