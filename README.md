@@ -15,3 +15,9 @@ Machine Learning Projects Practice Repository
 - Used Supervised Learning model - XGBoost Regressor
 - Goal is to predict house prices in Boston, MA, USA using existing data
 - dataset : http://lib.stat.cmu.edu/datasets/boston
+
+## 04. Bill Authentication
+- Used Supervised Learning model - Random Forest Classifier
+- Goal is to predict the Bills clase using features
+- dataset : https://drive.google.com/file/d/13nw-uRXPY8XIZQxKRNZ3yYlho-CYm_Qt/view
+
